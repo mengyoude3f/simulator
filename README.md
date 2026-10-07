@@ -120,5 +120,3 @@ print(format_report(build_report(states, scenario.metrics)))
 ## 后续方向
 
 实机校准成本模型；显存与 KV 页的映射；decode 侧显存带宽吞吐模型；decode 侧 prefix 去重；rank 级 KV 传输。
-#   s i m u l a t o r  
- 
