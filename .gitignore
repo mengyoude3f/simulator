@@ -1,0 +1,40 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Coverage and build artifacts
+.coverage
+.coverage.*
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Local/editor files
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Local conversation/history artifact; do not publish
+history.md
+
+ideas.md
+
+PROJECT_STATUS.md
+PROJECT_STATUS.pdf
+paper_experiments.py
+paper_results.txt
+figures/
+*.html
+make_figures.py
+md2pdf.py

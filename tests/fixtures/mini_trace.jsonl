@@ -1,0 +1,3 @@
+{"request_arrival_timestamp":"2026-07-01T00:00:00.000000000Z","request_id":"r-a","metadata":{"input_token_sequence_length":1000,"output_token_sequence_length":10,"cached_tokens":200}}
+{"request_arrival_timestamp":"2026-07-01T00:00:02.500000000Z","request_id":"r-b","metadata":{"input_token_sequence_length":500,"output_token_sequence_length":5}}
+{"request_arrival_timestamp":"2026-07-01T00:00:05.000000000Z","metadata":{"input_token_sequence_length":800,"output_token_sequence_length":20,"cached_tokens":900}}
